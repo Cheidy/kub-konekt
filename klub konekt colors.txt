@@ -1,0 +1,10 @@
+GREEN  #00fc00
+
+
+RED    #fe0000
+
+
+BLUE     #00ccff
+
+
+YELLOW    #ffff00
